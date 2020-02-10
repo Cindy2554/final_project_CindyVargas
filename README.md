@@ -17,6 +17,7 @@ Show the effects of redevelopment on the change in demographics of income earner
 
 
 # Initial Sketches
+![Explanation of story arc]
 
 # Data Sources
 I accessed New York City's Open Data site which is a free and publicly accessible website featuring a plethora of data sets from various New York City agencies. I uploaded New York City Census tracts (2010) to 
