@@ -13,6 +13,8 @@ Show the effects of redevelopment on the change in demographics of income earner
 
 **User Story**: Major residential and commercial redevelopment of the South Bronx neighborhood has caused higher income earners to move there. The increase in rents correlated with this movement has effectively priced many long-term low-income earning residents out of their homes. As a reader, I want to know if these redevelopment trends are causing the discplacement of long-term low-income earning residents from the South Bronx so that I can take some action to advocate for them.
 
+People care: I spent alot of time in this area and the changes and displacement are really similar to what is occurring in large urban areas acorss the world. Long term residents are being displaced from their homes and there hasn't been much done to help them stay or relocate properly. This could easily be you.
+
 **Call to Action**: Push local policy makers to encourage policies that would either help these residents stay in the South Bronx or help them move to other areas that are affordable.
 
 
