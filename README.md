@@ -27,6 +27,7 @@ Data related to demographic characteristics and median income were found in the 
 
 1. [Link to Permit Data](https://data.cityofnewyork.us/Housing-Development/DOB-Permit-Issuance/ipu4-2q9a/data)
 2. [Link to Census tract Data](https://data.cityofnewyork.us/City-Government/2010-Census-Tracts/fxpq-c8ku)
+3. [Link to Income and Demographic Data](
 
 
 # Method and Medium
