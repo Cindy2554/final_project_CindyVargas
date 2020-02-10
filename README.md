@@ -21,13 +21,16 @@ Show the effects of redevelopment on the change in demographics of income earner
 
 
 # Data Sources
-I accessed New York City's Open Data site which is a free and publicly accessible website featuring a plethora of data sets from various New York City agencies. I uploaded New York City Census tracts (2010) to 
+I accessed New York City's Open Data site which is a free and publicly accessible website featuring a plethora of data sets from various New York City agencies. I uploaded New York City Permit Data and Census tracts (2010) to use in ArcGIS Pro. I cleaned the permit data significantly to focus on the zip code in which the South Bronx is situated, 10455. Permit data featured address info and points of longitude and latitude, which will be used to plot redevelopment locations in ArcGIS Pro. I  deleted columns that would not add to this project or that had identifying information.
 
-1. [Link to other page](https://data.cityofnewyork.us/Housing-Development/DOB-Permit-Issuance/ipu4-2q9a/data)
+Data related to demographic characteristics and median income were found in the Census Bureau's American FactFinder site. I focused my search on New York's Bronx County and Indivudal Income and Earnings. I found 1-yr ACS data that met my criteria and had information for the years 2005-2017, whuch spans the majority of my time period of interest. I wil post only 2005 and 2017's data files here for convinience. 
+
+1. [Link to Permit Data](https://data.cityofnewyork.us/Housing-Development/DOB-Permit-Issuance/ipu4-2q9a/data)
+2. [Link to Census tract Data](https://data.cityofnewyork.us/City-Government/2010-Census-Tracts/fxpq-c8ku)
 
 
 # Method and Medium
-I plan to use Esri's Story Maps as the main digital platform to present my final project. Before uploading my project components to Esri's publicly accessible site, I plan to use ArcGIS Pro software to upload all my data sources and visualize the trends and variables of interest. I will focus on five-year time periods to make the visualizations more straight forward. Therefore, the time range of 2005-2019 will be broken up into three intervals; 2005-2009, 2010-2014, and 2015-2019.
+I plan to use Esri's Story Maps as the main digital platform to present my final project. Before uploading my project components to Esri's publicly accessible site, I plan to use ArcGIS Pro software to upload all my data sources and visualize the trends and variables of interest. I will focus on five-year time periods to make the visualizations more straight forward. Therefore, the time range of 2005-2019 will be broken up into three intervals; 2005-2009, 2010-2014, and 2015-2019. The most granular data I could find for this analysis is at the Census tract level and thus will use data available at that level.
 
 I am looking to feature resident demographic variables and redevelopment locations on a map for each of these years. For analysis, they will be juxtaposed for analysis. I would symbolize redevelopment locations with small house signs to differenitate them from the individual points indicating residents. South Bronx resident demographic information will start as a point feature class. I hope to highlight changes in the proportion of demographic characteristics, primarily the race of residents, through a graduated color scale, effectively making a choropleth map. This way, viewers can see chaages in resident raciak compostion over these time periods.
 
