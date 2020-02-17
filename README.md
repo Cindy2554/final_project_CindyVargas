@@ -55,6 +55,10 @@ I decided to create line graphs for Median Income yearly chages related to Race 
 My second round of wireframes were created before my interviews and before I moved onto Tableau. But I was very specific about how I wanted to visualize the median income and demographic data in Tableau after being introduced to it in class. My wireframe sketches will be featured below.
 [Link to Second Wireframe](Wireframe_BeforeInterview.jpg)
 
+My third round of wireframes included making changes to my second wireframe based off of feedback I recieved from my interviewees on the ease of interpreting my data visualizations. The changes I made will be detailed in the 'Interviews' section below.
+[Link to Second Wireframe](Wireframe_BeforeInterview.jpg)
 
+**Interviews**
+I chose to interview people who were familiar with the New York City area and are native New Yorkers. I was constrained in getting access to actual local policy makers
 
 
