@@ -56,7 +56,7 @@ My second round of wireframes were created before my interviews and before I mov
 [Link to Second Wireframe](Wireframe_BeforeInterview.jpg)
 
 My third round of wireframes included making changes to my second wireframe based off of feedback I recieved from my interviewees on the ease of interpreting my data visualizations. The changes I made will be detailed in the 'Interviews' section below.
-[Link to Second Wireframe](Wireframe_BeforeInterview.jpg)
+[Link to Second Wireframe](Wireframe_AfterInterview.jpg)
 
 **Interviews**
 I chose to interview people who were familiar with the New York City area and are native New Yorkers. I was constrained in getting access to actual local policy makers
