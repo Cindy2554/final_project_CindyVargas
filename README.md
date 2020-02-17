@@ -104,4 +104,18 @@ He was able to figure out I was focusing on New York inmy GIS maps due to having
 
 
 **Story Map**
+I still want to go with the original story arc;
 
+*Setup*: Redevelopment activities have intensified between the years 2005 and 2019 in the South Bronx.
+
+But now the setup could read something like "Redevelopment intensified between the years 2005 and 2010, according to the trends shown in the GIS maps.
+
+
+*Conflict*: This redevelopment has attracted higher income earners to settle in the South Bronx, pushing out lower income residents.
+
+This could read, "Though median incomes began to rise significantly after 2011-12, following these redevelopments, a shift occurred where higher income earners started to make up more of South Bronx residents." 
+
+
+*Resolution*: Policies that will help retain affordable housing can help low income residents stay and benifit from redevelopment.
+
+This could read, "These changes are reminsicent of the effects of gentrification where hsitorically, low-incomer earners have trouble affording rising rents and alre ultimately pushed out of these changing neighborhoods. New Yorkers hsould be aware of such trends and sign polls to oush local policy makers to protect residents forced out of these neighborhoods. 
