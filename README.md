@@ -1,5 +1,7 @@
 # final_project_CindyVargas
 
+# PART I
+
 # Project Summary
 Show the effects of redevelopment on the change in demographics of income earners in the South Bronx neighborhood of New York City. Empahsize the change in proportion of lower income earners as redevelopment has occurred between the years of 2005-2019.
 
@@ -41,3 +43,10 @@ I am looking to feature resident demographic variables and redevelopment locatio
 To show changes in median income specifically, I will upload median income data to Rawgraphs to create a line graph or bar chart or some other time series visualization and add this to my Story Map. It will be overwhelming to show all the aforementioned variables on a map in ArcGIS so I plan to graph median income for residents in the South Bronx seapraetly to make my visualizations easier to digest. In terms of analytical tools on ArcGIS Pro, I plan to use the Hotspot tool to ultimately create a heat map that will show where changes in resident population and demography were concentrated in the South Bronx and assess whether these changes correlate to redevelopment sites.
 
 I will add text in my Story Map explaining how the South Bronx was historically made up, when redevelopment started in earnest, general trends in the neighborhood and surrounding areas since and information related to what happened to low income residents as well as their demographic makeup. I am thinking of adding more context about what problems residents faced in being able to stay in the South Bronx as revedeopment occurred, such as analyzing  changes in the number of recipeints of Social services in the South Bronx, but that information is difficult to find. I will also include an analysis of my findings and research on potential policy recommendations to help mitigate the consequences related to these changes on low-come earners.
+
+
+
+PART II
+
+**Note: Changes to Medium**
+I decided to create line graphs for Median Income yearly chages related to Race and Age in Tableau as I found the user interface much more intuitve and more efficient than ArcGIS Pro or RawGraphs. I could not do the comparison of chnages in income and number of redevelopment sites on one map like I originaly sought to do because my data was incompatiable and the demographic data did not contain the necessary fields for me to join characteristics from Age and Race data to Census tract level data. As a result, I have 3 major visualizations in ArcGIS Pro and 2 graphs in Tableau.
