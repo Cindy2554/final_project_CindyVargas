@@ -95,4 +95,4 @@ He was able to figure out I was focusing on New York inmy GIS maps due to having
 
 **Visualizations**
 
-[Link to Visualizations](GIS and Tableau Visualizations.docx)
+[Link to Visualizations](GIS and Tableau Visualizations.pdf)
