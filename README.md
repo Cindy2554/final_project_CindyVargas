@@ -46,7 +46,7 @@ I will add text in my Story Map explaining how the South Bronx was historically 
 
 
 
-PART II
+# PART II
 
 **Note: Changes to Medium**
 I decided to create line graphs for Median Income yearly chages related to Race and Age in Tableau as I found the user interface much more intuitve and more efficient than ArcGIS Pro or RawGraphs. I could not do the comparison of chnages in income and number of redevelopment sites on one map like I originaly sought to do because my data was incompatiable and the demographic data did not contain the necessary fields for me to join characteristics from Age and Race data to Census tract level data. As a result, I have 3 major visualizations in ArcGIS Pro and 2 graphs in Tableau.
