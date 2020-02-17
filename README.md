@@ -92,5 +92,7 @@ She was also able to quickly deduce that I was showing a map of New York and spe
 He was able to figure out I was focusing on New York inmy GIS maps due to having lived in Harlem and recognizing the boundaries of the boroughs. He thought my study area could "pop" more by adding either brighter or deeper colors to my dots and area boundaries. His biggest speculation was what I could compare the dots representing redevelopment sites with becuase as a standalone feature he felt that the map was not "telling me much." He saw each map represented a period of  five years, but said that the dots did not seem to move much to really offer significant analysis, though he noted certain neighborhoods expereinced concentraitons of dots compared to others. He felt my Tableau graphs were suitable and when compared with my GIS maps, they did paint a clearer picture of the themes of redevelopment sites and their influence on median income changes but he felt I did not have a strong case for correlation. He also recommeded making a key for the line graphs more apparent to help interpret the lines more effectively.
 
 
+
 **Visualizations**
-[Link to Third Wireframe](GIS and Tableau Visualizations.docx)
+
+[Link to Visualizations](GIS and Tableau Visualizations.docx)
