@@ -49,7 +49,10 @@ I will add text in my Story Map explaining how the South Bronx was historically 
 # PART II
 
 **Note Changes to Medium**
-I decided to create line graphs for Median Income yearly chages related to Race and Age in Tableau as I found the user interface much more intuitve and more efficient than ArcGIS Pro or RawGraphs. I could not do the comparison of chnages in income and number of redevelopment sites on one map like I originaly sought to do because my data was incompatiable and the demographic data did not contain the necessary fields for me to join those characteristics from Age and Race data to Census tract level data. Furthermore, the demographic data I could find from New York's open source website only contained aggregated data for demographic variables, so I could not meausre individuals and their movement the way I hopes to.  As a result, I have 3 major visualizations in ArcGIS Pro and 2 graphs, one where yearly median income changes are represtned by Race and the other by Age in Tableau.
+I decided to create line graphs for Median Income yearly chages related to Race and Age in Tableau as I found the user interface much more intuitve and more efficient than ArcGIS Pro or RawGraphs. I could not do the comparison of chnages in income and number of redevelopment sites on one map like I originaly sought to do because my data was incompatiable and the demographic data did not contain the necessary fields for me to join those characteristics from Age and Race data to Census tract level data. Furthermore, the demographic data I could find from New York's open source website only contained aggregated data for demographic variables, so I could not meausre individuals and their movement the way I hoped to. I cleaned and synthesized the demographic and median income data into separate excel sheets to make the variables easier to work with within Tableau. As a result, I have 3 maps showing the periodic changes in redevelopment sites throughout the South Bronx based on permit data, in ArcGIS Pro. In Tableau, I created 2 graphs, where one represents yearly median income changes by racial groups and the other age groups.
 
 **Wireframes**
-My second round of wireframes were created before my interviews and before I moved onto Tableau.
+My second round of wireframes were created before my interviews and before I moved onto Tableau. It will be featured below.
+[Link to Second Wireframe]()
+
+
