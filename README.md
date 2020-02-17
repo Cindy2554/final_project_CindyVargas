@@ -56,9 +56,19 @@ My second round of wireframes were created before my interviews and before I mov
 [Link to Second Wireframe](Wireframe_BeforeInterview.jpg)
 
 My third round of wireframes included making changes to my second wireframe based off of feedback I recieved from my interviewees on the ease of interpreting my data visualizations. The changes I made will be detailed in the 'Interviews' section below.
-[Link to Second Wireframe](Wireframe_AfterInterview.jpg)
+[Link to Third Wireframe](Wireframe_AfterInterview.jpg)
 
 **Interviews**
-I chose to interview people who were familiar with the New York City area and are native New Yorkers. I was constrained in getting access to actual local policy makers
+I chose to interview people who were familiar with the New York City area and were native New Yorkers. I was constrained in getting access to actual local policy makers, who were the originally intended audience, however the nature of how I visualized my data, due to the limitations I came across, may cause me to alter the story I originally wanted to tell as well as the audience that it was intended for, but more on that in a bit.
+
+*Questions*
+1. Are you familiar with this area?
+2. Do you know what changes have been occurring in the South Bronx?
+3. What do you think these dots represents?
+4. What aspects of the visuals jump out at you?
+5. What aspects of these visuals do you not like? 
+6. What suggestions do you have for showing this data differently?
+
+
 
 
