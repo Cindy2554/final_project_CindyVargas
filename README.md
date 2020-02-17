@@ -64,13 +64,19 @@ My third round of wireframes included making changes to my second wireframe base
 I chose to interview people who were familiar with the New York City area and were native New Yorkers. I was constrained in getting access to actual local policy makers, who were the originally intended audience, however the nature of how I visualized my data, due to the limitations I came across, may cause me to alter the story I originally wanted to tell as well as the audience that it was intended for, but more on that in a bit.
 
 *Questions*
-*1. Are you familiar with this area?
-*2. Do you know what changes have been occurring in the South Bronx?
-*3. What do you think these dots represents?
-*4. What aspects of the visuals jump out at you?
-*5. What aspects of these visuals do you not like? 
-*6. What suggestions do you have for showing this data differently?
+1. Are you familiar with this area?
+2. Do you know what changes have been occurring in the South Bronx?
+3. What do you think these dots represents?
+4. What aspects of the visuals jump out at you?
+5. What aspects of these visuals do you not like? 
+6. What suggestions do you have for showing this data differently?
 
+*Interviewees*
+1. Native New Yorker- Family
+With my GIS maps knew exactly the location I was showing her due to featuring uptown Manhatthan and Central Park. She is aware of the growing gentrifications trends in the South Bronx area. I showed her the GIS maps for redevelopment sites I created and her major critiques were to label the South Bronx neighborhoods that I focus on, bring my study area into more focus with darker outlines for the neighborhoods as well as to make the points that I use to represent the development sites much darker and more apparent. Her critiques on my Tableau graphs focused on her difficulty to interepret what the lines were representing and that mainly had to do with the fact that the accompanying keys were not on the graphs. She suggested pacing the keys on the graphs. However, she was able to interpret my visualiztions well.
 
+2. Native- New Yorker- Spouse
+She was also able to quickly deduce that I was showing a map of New York and specifically the Bronx. Her comments on my maps included either making the background lighter to bring out my study area more, though she was able to identify the blue lines that made up my study area relatively quickly. She did say that she would not have been able to interpret the meaning of the dots onthe graph and that I should make a key labeling the dots. Concerning my Tableau graphs, she also had  difficulty interpreting what the lines were reresenting and suggested labeling each line with their own individual label instead of adding a key, especially for the Median Income by Race line graph, where there were many lines and looking back at a key so many times would become tedious
 
+3. Native New Yorker- CMU student
 
