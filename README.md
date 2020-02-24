@@ -3,7 +3,7 @@
 # PART I
 
 # Project Summary
-Show the effects of redevelopment on the change in demographics of income earners in the South Bronx neighborhood of New York City. Empahsize the change in proportion of lower income earners as redevelopment has occurred between the years of 2005-2019.
+Show the effects of redevelopment on the change in demographics of income earners in the South Bronx neighborhood of New York City. Empahsize the change in proportion of lower income earners as redevelopment has occurred between the years of 2005-2018.
 
 # Potential Story Arc
 
@@ -106,7 +106,7 @@ He was able to figure out I was focusing on New York inmy GIS maps due to having
 **Story Map**
 I still want to go with the original story arc;
 
-*Setup*: Redevelopment activities have intensified between the years 2005 and 2019 in the South Bronx.
+*Setup*: Redevelopment activities have intensified between the years 2005 and 2018 in the South Bronx.
 
 But now the setup could read something like "Redevelopment intensified between the years 2005 and 2010, according to the trends shown in the GIS maps.
 
