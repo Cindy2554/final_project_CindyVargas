@@ -151,3 +151,5 @@ I wish I had given myself time to look up median housing value data for the area
 
 *Resolution*: This specific population change cannot be expained through the aggregated data I collected. However, if the intense redevelopment that has occurred in the South Bronx follows the recent literature on redevelpoment and gentrification, the South Bronx should eventually see an influx of higher income and possibly White earners to area. New Yorkers should stay aware and push policy makers that support these redevelopment projects to consider the impact of everyone effected.
 
+[Link to GIS StoryMap] (https://storymaps.arcgis.com/stories/2291011ee8ed49ce8a359ca3983fd78d)
+
