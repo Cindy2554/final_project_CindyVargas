@@ -122,15 +122,22 @@ This could read, "These changes are reminsicent of the effects of gentrification
 
 
 
+
+
 # PART III
 
 After considering the comments made by my interviewees, I decided to focus my Tableau visualizations on the following racial groups; White, Black and African-American, and Hispanic and Latino. I grayed out the lines denoting the other racial groups on the Median Income By Race line graph. Furthemore, I decided to add to my analysis of redevelopment effects in the South Bronx by gatheriing population data for the census tracts that made up the neighborhoods in the South Bronx area from Amrican FactFinder in the Census Bureau website. Population data was only avaialbe in aggregated terms for the years 2010 to 2017. 
 
-1. [Link to Population Data](2010PopChangeCleanup_CTLabel.xlsx)
-2. [Link to Population Data](2014PopChangeCleanup_CTLabel.xlsx)
-3. [Link to Population Data](2017PopChangeCleanup_CTLabel.xlsx)
+1. [Link to New Median Income Line Graph](MedianIncomePerYear_Race_Grey.png)
+2. [Link to Population Data](2010PopChangeCleanup_CTLabel.xlsx)
+3. [Link to Population Data](2014PopChangeCleanup_CTLabel.xlsx)
+4. [Link to Population Data](2017PopChangeCleanup_CTLabel.xlsx)
 
 Initially, I wanted to add the population data to ArcGIS and visualize the population changes in a choropleth map but the redevelopment data did not have the necessary variables needed to execute the necessary joins. Also, the population changes within individual South Bronx tracts were not significant enough on a year to year basis to merit all that work. Thus, I decided to look at the data through periodic changes, focusing on the years of 2010, 2014 and 2017. I aggregated the census tract population data to obtain the total population of each group in the South Bronx area for each of the three years stated above. I chose to represent this data in a bar chart for each of the three years, since the population changes were easier to discern. This visualizatioin yielded interensting resutls.
+
+1. [Link to Population Change Bar Graph](2017PopChangeCleanup_CTLabel.xlsx)
+2. [Link to Population Change Bar Graph](2017PopChangeCleanup_CTLabel.xlsx)
+3. [Link to Population Change Bar Graph](2017PopChangeCleanup_CTLabel.xlsx)
 
 Originally, my intention was to 
 
