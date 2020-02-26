@@ -133,15 +133,19 @@ After considering the comments made by my interviewees, I decided to focus my Ta
 3. [Link to Population Data](2014PopChangeCleanup_CTLabel.xlsx)
 4. [Link to Population Data](2017PopChangeCleanup_CTLabel.xlsx)
 
-Initially, I wanted to add the population data to ArcGIS and visualize the population changes in a choropleth map but the redevelopment data did not have the necessary variables needed to execute the necessary joins. Also, the population changes within individual South Bronx tracts were not significant enough on a year to year basis to merit all that work. Thus, I decided to look at the data through periodic changes, focusing on the years of 2010, 2014 and 2017. I aggregated the census tract population data to obtain the total population of each group in the South Bronx area for each of the three years stated above. I chose to represent this data in a bar chart for each of the three years, since the population changes were easier to discern. This visualizatioin yielded unexpected results.
+Initially, I wanted to add the population data to ArcGIS and visualize the population changes in a choropleth map but the redevelopment data did not have the necessary variables needed to execute the necessary joins. Also, the population changes within individual South Bronx tracts were not significant enough on a year to year basis to merit all that work. Thus, I decided to look at the data through periodic changes, focusing on the years of 2010, 2014 and 2017. I aggregated the census tract population data to obtain the total population of each group in the South Bronx area for each of the three years stated above. I chose to represent this data in a bar chart for each of the three years, since the population changes were easier to discern. This visualizatioin yielded unexpected results. 
 
 1. [Link to Population Change Bar Graph](PopChange_2010.png)
 2. [Link to Population Change Bar Graph](PopChange_2014.png)
 3. [Link to Population Change Bar Graph](PopChange_2017.png)
 
-#Originally, my intention was to tell the following story#;
+Literature on redevelopment and gentricifaction show that there is a strong correlation between the two factors. Gentrification assocated with redevelopment is defined as "increased investment and influx of residents of higher socioeconomic status (SES) into a lower socioeconomic status neighborhood." The population change data was hypothesized to show an increase in the population of Whites moving into the South Bronx area but my population yielded the opposite; people identifying as White were actually leaving the South Bronx area over 2010 to 2017. I did not have access to indivdual movement data and the time to reesearch why this may have been the case or where else White people may be moving to in the Bronx, if at all. However, the usual population movement patterns associated with intense redevelopment may have not born fruit yet, according to the literature on the matter.
 
-*Setup*: Redevelopment intensified between the years 2005 and 2010, according to the trends shown in the GIS maps.
-*Conflict*: Though median incomes began to rise significantly after 2011-12, following these redevelopments, a shift occurred where higher income earners started to make up more of South Bronx residents.
-*Resolution*: Policies that will help retain affordable housing can help low income residents stay and benifit from redevelopment.
+# My intention now is to tell the following story;
+
+*Setup*: Redevelopment intensified between the years 2005 and 2010, in the South Bronx, according to the trends shown in the GIS maps.
+
+*Conflict*: Though median incomes rose steadily for all racial groups after 2011-12, following these redevelopments, Whites experienced a greater increase in income while those of Blacks and Latinos stagnated or even diminished. Increases in income of certain racial groups usually denote a population shift of higher income earners to these redeveloping areas but my data actually showed that these people were leaving the South Bronx area.
+
+*Resolution*: These population trends cannot be expained through aggregated data but if this phenomena foolows the recent literature on redevelpoment and gentrification, the South Bronx should eventually see an influx of higher income and possibly White earners to this redeveloping area. New Yorkers should stay aware and push policy makers that support these projects to consider the impact of everyone effected.
 
