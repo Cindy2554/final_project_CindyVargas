@@ -118,7 +118,7 @@ This could read, "Though median incomes began to rise significantly after 2011-1
 
 *Resolution*: Policies that will help retain affordable housing can help low income residents stay and benifit from redevelopment.
 
-This could read, "These changes are reminsicent of the effects of gentrification where hsitorically, low-incomer earners have trouble affording rising rents and alre ultimately pushed out of these changing neighborhoods. New Yorkers hsould be aware of such trends and sign polls to oush local policy makers to protect residents forced out of these neighborhoods. 
+This could read, "These changes are reminsicent of the effects of gentrification where hsitorically, low-incomer earners have trouble affording rising rents and alre ultimately pushed out of these changing neighborhoods. New Yorkers should be aware of such trends and push local policy makers to protect residents priced out of these neighborhoods. "
 
 
 
@@ -133,12 +133,15 @@ After considering the comments made by my interviewees, I decided to focus my Ta
 3. [Link to Population Data](2014PopChangeCleanup_CTLabel.xlsx)
 4. [Link to Population Data](2017PopChangeCleanup_CTLabel.xlsx)
 
-Initially, I wanted to add the population data to ArcGIS and visualize the population changes in a choropleth map but the redevelopment data did not have the necessary variables needed to execute the necessary joins. Also, the population changes within individual South Bronx tracts were not significant enough on a year to year basis to merit all that work. Thus, I decided to look at the data through periodic changes, focusing on the years of 2010, 2014 and 2017. I aggregated the census tract population data to obtain the total population of each group in the South Bronx area for each of the three years stated above. I chose to represent this data in a bar chart for each of the three years, since the population changes were easier to discern. This visualizatioin yielded interensting resutls.
+Initially, I wanted to add the population data to ArcGIS and visualize the population changes in a choropleth map but the redevelopment data did not have the necessary variables needed to execute the necessary joins. Also, the population changes within individual South Bronx tracts were not significant enough on a year to year basis to merit all that work. Thus, I decided to look at the data through periodic changes, focusing on the years of 2010, 2014 and 2017. I aggregated the census tract population data to obtain the total population of each group in the South Bronx area for each of the three years stated above. I chose to represent this data in a bar chart for each of the three years, since the population changes were easier to discern. This visualizatioin yielded unexpected results.
 
-1. [Link to Population Change Bar Graph](2017PopChangeCleanup_CTLabel.xlsx)
-2. [Link to Population Change Bar Graph](2017PopChangeCleanup_CTLabel.xlsx)
-3. [Link to Population Change Bar Graph](2017PopChangeCleanup_CTLabel.xlsx)
+1. [Link to Population Change Bar Graph](PopChange_2010.png)
+2. [Link to Population Change Bar Graph](PopChange_2014.png)
+3. [Link to Population Change Bar Graph](PopChange_2017.png)
 
-Originally, my intention was to 
+#Originally, my intention was to tell the following story#;
 
+*Setup*: Redevelopment intensified between the years 2005 and 2010, according to the trends shown in the GIS maps.
+*Conflict*: Though median incomes began to rise significantly after 2011-12, following these redevelopments, a shift occurred where higher income earners started to make up more of South Bronx residents.
+*Resolution*: Policies that will help retain affordable housing can help low income residents stay and benifit from redevelopment.
 
