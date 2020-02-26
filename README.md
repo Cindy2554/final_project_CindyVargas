@@ -143,9 +143,9 @@ Literature on redevelopment and gentricifaction show that there is a strong corr
 
 # My intention now is to tell the following story;
 
-*Setup*: Redevelopment intensified between the years 2005 and 2010, in the South Bronx, according to the trends shown in the GIS maps.
+*Setup*: Redevelopment intensified between the years 2005 and 2010, in the South Bronx, according to the trends shown in the GIS maps. Current literature shows that intense redeevlopent is usually followed by gentrification.
 
-*Conflict*: Though median incomes rose steadily for all racial groups after 2011-12, following these redevelopments, Whites experienced a greater increase in income while those of Blacks and Latinos stagnated or even diminished. Increases in income of certain racial groups usually denote a population shift of higher income earners to these redeveloping areas but my data actually showed that these people were leaving the South Bronx area.
+*Conflict*: Though median incomes rose steadily for all racial groups after 2011-12, following these redevelopments, Whites experienced a greater increase in income while those of Blacks and Latinos stagnated or even diminished. Increases in income, especially  those in the White racial group, usually denotes a population shift ofthese higher income earners to these redeveloping areas. My data showed that these higher earning White folk were actually leaving the South Bronx area.
 
-*Resolution*: These population trends cannot be expained through aggregated data but if this phenomena foolows the recent literature on redevelpoment and gentrification, the South Bronx should eventually see an influx of higher income and possibly White earners to this redeveloping area. New Yorkers should stay aware and push policy makers that support these projects to consider the impact of everyone effected.
+*Resolution*: This specific population change cannot be expained through the aggregated data I collected. However, if the intense redevelopment that has occurred in the South Bronx follows the recent literature on redevelpoment and gentrification, the South Bronx should eventually see an influx of higher income and possibly White earners to area. New Yorkers should stay aware and push policy makers that support these redevelopment projects to consider the impact of everyone effected.
 
